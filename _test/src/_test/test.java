@@ -5,6 +5,7 @@ public class test {
 		String s = "I like China";
 		System.out.println(s);
                 String r = "123123";
+                System.out.println(r);
 
 	}
 }
